@@ -27,3 +27,6 @@
 - PrintBoard() : 현재 보드 상태 출력
 - WinCheck() : 승리 조건 검사
 - IndexSafeCheck() : 보드 범위 검사
+
+## 플레이 영상
+- 링크 : https://youtu.be/vKH6iJLOHbY
