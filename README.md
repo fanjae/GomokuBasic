@@ -1,4 +1,5 @@
 # 콘솔 환경에서 구현한 2인용 오목
+- C++로 구현한 Windows Console 기반 2인용 오목 게임입니다.
 
 ## 주요 기능
 - 15x15 오목판 출력
@@ -17,6 +18,9 @@
 - C++
 - Windows Console
 - Visual Studio 2022
+
+## 실행 방법
+- Visual Studio 2022에서 프로젝트를 열고 빌드 후 실행합니다.
 
 ## Blog
 - 링크 : https://fanjae.tistory.com/166
