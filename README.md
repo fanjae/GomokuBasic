@@ -18,15 +18,8 @@
 - Windows Console
 - Visual Studio 2022
 
-## 개발 목적
-- C++ 기본 문법, 배열, 반복문, 조건문, 함수 분리, 콘솔 입력 처리, 간단한 게임 로직 구현을 연습하기 위해 제작했습니다.
-
-## 코드 구성
-- menu() : 메인 메뉴 입력 처리
-- PlayGame() : 게임 루프 및 턴 진행
-- PrintBoard() : 현재 보드 상태 출력
-- WinCheck() : 승리 조건 검사
-- IndexSafeCheck() : 보드 범위 검사
+## Blog
+- 링크 : https://fanjae.tistory.com/166
 
 ## 플레이 영상
 - 링크 : https://youtu.be/vKH6iJLOHbY
