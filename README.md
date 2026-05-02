@@ -22,6 +22,9 @@
 ## 실행 방법
 - Visual Studio 2022에서 프로젝트를 열고 빌드 후 실행합니다.
 
+## 제작 시기
+- 2026.04
+ 
 ## Blog
 - 링크 : https://fanjae.tistory.com/166
 
